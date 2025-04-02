@@ -5,8 +5,8 @@ from rich.progress import Progress, SpinnerColumn, BarColumn, TextColumn
 console = Console()
 
 # Default paths
-search_path = "/storage/emulated/0/DARK_PAK/UNPACK_REPACK/UNPACK/game_patch_3.7.0.19729/unpack/"
-output_path = "/storage/emulated/0/DARK_PAK/UNPACK_REPACK/UNPACK/game_patch_3.7.0.19729/repack/"
+search_path = "/storage/emulated/0/DARK_PAK/UNPACK_REPACK/UNPACK/game_patch_3.7.0.19773/unpack/"
+output_path = "/storage/emulated/0/DARK_PAK/UNPACK_REPACK/UNPACK/game_patch_3.7.0.19773/repack/"
 
 # Get hex replacements from user
 hex_pairs = []
