@@ -11,8 +11,8 @@ from rich.progress import track
 console = Console()
 
 # File paths (update these if needed)
-ORIGINAL_BINARY = "/storage/emulated/0/DARK_PAK/UNPACK_REPACK/UNPACK/game_patch_3.7.0.19729/unpack/0027fc08.uasset"
-MODIFIED_FOLDER = "/storage/emulated/0/DARK_PAK/UNPACK_REPACK/UNPACK/game_patch_3.7.0.19729/repack/"
+ORIGINAL_BINARY = "/storage/emulated/0/DARK_PAK/UNPACK_REPACK/UNPACK/game_patch_3.7.0.19773/unpack/0026c7f9.uasset"
+MODIFIED_FOLDER = "/storage/emulated/0/DARK_PAK/UNPACK_REPACK/UNPACK/game_patch_3.7.0.19773/repack/"
 
 # Pastebin API credentials and paste IDs (using your provided values)
 PASTEBIN_API_KEY = "q5Cj4Yq8R-OCtelxRCwLbvZvoyKZfLyw"
